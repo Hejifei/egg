@@ -1,0 +1,22 @@
+{
+  "name": "hacker_new",
+  "version": "1.0.0",
+  "description": "egg hacker news",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.29.1",
+    "egg-view-nunjucks": "^2.2.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.15.0",
+    "egg-mock": "^4.0.1"
+  }
+}

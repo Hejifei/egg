@@ -1,0 +1,225 @@
+2020-12-11 13:40:34,150 INFO 46910 [egg-logrotator] agent logger reload: got log-reload message
+2021-03-15 22:15:52,290 INFO 86588 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-15 22:15:52,299 INFO 86588 [egg:core] dump config after load, 5ms
+2021-03-15 22:15:52,340 INFO 86588 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-15 22:15:52,340 INFO 86588 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-15 22:15:52,341 INFO 86588 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-15 22:15:52,341 INFO 86588 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-15 22:15:52,341 INFO 86588 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-15 22:15:52,341 INFO 86588 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-15 22:15:52,341 INFO 86588 [egg-watcher:agent] watcher start success
+2021-03-15 22:15:52,348 INFO 86588 [egg:core] dump config after ready, 2ms
+2021-03-15 22:19:07,037 WARN 86588 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js change
+2021-03-15 22:19:06,831 INFO 86588 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70526573,"size":643,"blocks":8,"atimeMs":1615817714468.6062,"mtimeMs":1615817946767.536,"ctimeMs":1615817946767.536,"birthtimeMs":1615817575982.3828,"atime":"2021-03-15T14:15:14.469Z","mtime":"2021-03-15T14:19:06.768Z","ctime":"2021-03-15T14:19:06.768Z","birthtime":"2021-03-15T14:12:55.982Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:21:36,218 INFO 86588 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70526573,"size":1107,"blocks":8,"atimeMs":1615817947992.9673,"mtimeMs":1615818096156.984,"ctimeMs":1615818096156.984,"birthtimeMs":1615817575982.3828,"atime":"2021-03-15T14:19:07.993Z","mtime":"2021-03-15T14:21:36.157Z","ctime":"2021-03-15T14:21:36.157Z","birthtime":"2021-03-15T14:12:55.982Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:21:36,421 WARN 86588 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js change
+2021-03-15 22:22:15,110 WARN 86588 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:22:14,906 INFO 86588 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":767,"blocks":8,"atimeMs":1607581406078.593,"mtimeMs":1615818134844.7385,"ctimeMs":1615818134844.7385,"birthtimeMs":1607572104019.4097,"atime":"2020-12-10T06:23:26.079Z","mtime":"2021-03-15T14:22:14.845Z","ctime":"2021-03-15T14:22:14.845Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:22:22,400 INFO 86730 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-15 22:22:22,407 INFO 86730 [egg:core] dump config after load, 3ms
+2021-03-15 22:22:22,438 INFO 86730 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-15 22:22:22,438 INFO 86730 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-15 22:22:22,439 INFO 86730 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-15 22:22:22,439 INFO 86730 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-15 22:22:22,439 INFO 86730 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-15 22:22:22,439 INFO 86730 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-15 22:22:22,439 INFO 86730 [egg-watcher:agent] watcher start success
+2021-03-15 22:22:22,448 INFO 86730 [egg:core] dump config after ready, 3ms
+2021-03-15 22:23:31,309 WARN 86730 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/home.js change
+2021-03-15 22:23:31,104 INFO 86730 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59333638,"size":413,"blocks":8,"atimeMs":1607583815741.1858,"mtimeMs":1615818211043.049,"ctimeMs":1615818211043.049,"birthtimeMs":1607571259734.7378,"atime":"2020-12-10T07:03:35.741Z","mtime":"2021-03-15T14:23:31.043Z","ctime":"2021-03-15T14:23:31.043Z","birthtime":"2020-12-10T03:34:19.735Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:24:27,362 INFO 86829 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-15 22:24:27,369 INFO 86829 [egg:core] dump config after load, 3ms
+2021-03-15 22:24:27,404 INFO 86829 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-15 22:24:27,404 INFO 86829 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-15 22:24:27,404 INFO 86829 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-15 22:24:27,404 INFO 86829 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-15 22:24:27,404 INFO 86829 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-15 22:24:27,404 INFO 86829 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-15 22:24:27,404 INFO 86829 [egg-watcher:agent] watcher start success
+2021-03-15 22:24:27,412 INFO 86829 [egg:core] dump config after ready, 2ms
+2021-03-15 22:25:01,953 WARN 86829 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js change
+2021-03-15 22:25:01,751 INFO 86829 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70526573,"size":1135,"blocks":8,"atimeMs":1615818097421.73,"mtimeMs":1615818301687.1174,"ctimeMs":1615818301687.1174,"birthtimeMs":1615817575982.3828,"atime":"2021-03-15T14:21:37.422Z","mtime":"2021-03-15T14:25:01.687Z","ctime":"2021-03-15T14:25:01.687Z","birthtime":"2021-03-15T14:12:55.982Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:25:03,201 WARN 86829 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js change
+2021-03-15 22:25:02,944 INFO 86829 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70526573,"size":1136,"blocks":8,"atimeMs":1615818097421.73,"mtimeMs":1615818302933.0872,"ctimeMs":1615818302933.0872,"birthtimeMs":1615817575982.3828,"atime":"2021-03-15T14:21:37.422Z","mtime":"2021-03-15T14:25:02.933Z","ctime":"2021-03-15T14:25:02.933Z","birthtime":"2021-03-15T14:12:55.982Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:25:02,996 INFO 86829 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/app.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70526573,"size":1136,"blocks":8,"atimeMs":1615818097421.73,"mtimeMs":1615818302933.0872,"ctimeMs":1615818302933.0872,"birthtimeMs":1615817575982.3828,"atime":"2021-03-15T14:21:37.422Z","mtime":"2021-03-15T14:25:02.933Z","ctime":"2021-03-15T14:25:02.933Z","birthtime":"2021-03-15T14:12:55.982Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:29:11,543 WARN 86829 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:29:11,341 INFO 86829 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":837,"blocks":8,"atimeMs":1615818135236.6245,"mtimeMs":1615818551281.3826,"ctimeMs":1615818551281.3826,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:22:15.237Z","mtime":"2021-03-15T14:29:11.281Z","ctime":"2021-03-15T14:29:11.281Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:29:23,397 INFO 86939 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-15 22:29:23,404 INFO 86939 [egg:core] dump config after load, 2ms
+2021-03-15 22:29:23,434 INFO 86939 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-15 22:29:23,434 INFO 86939 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-15 22:29:23,434 INFO 86939 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-15 22:29:23,434 INFO 86939 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-15 22:29:23,434 INFO 86939 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-15 22:29:23,434 INFO 86939 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-15 22:29:23,434 INFO 86939 [egg-watcher:agent] watcher start success
+2021-03-15 22:29:23,443 INFO 86939 [egg:core] dump config after ready, 3ms
+2021-03-15 22:30:13,795 INFO 86939 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355920,"size":402,"blocks":8,"atimeMs":1607575964239.3794,"mtimeMs":1615818613731.7803,"ctimeMs":1615818613731.7803,"birthtimeMs":1607572058481.1536,"atime":"2020-12-10T04:52:44.239Z","mtime":"2021-03-15T14:30:13.732Z","ctime":"2021-03-15T14:30:13.732Z","birthtime":"2020-12-10T03:47:38.481Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:30:18,212 INFO 86939 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355920,"size":398,"blocks":8,"atimeMs":1615818614980.897,"mtimeMs":1615818618200.0693,"ctimeMs":1615818618200.0693,"birthtimeMs":1607572058481.1536,"atime":"2021-03-15T14:30:14.981Z","mtime":"2021-03-15T14:30:18.200Z","ctime":"2021-03-15T14:30:18.200Z","birthtime":"2020-12-10T03:47:38.481Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:30:18,262 INFO 86939 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355920,"size":398,"blocks":8,"atimeMs":1615818614980.897,"mtimeMs":1615818618200.0693,"ctimeMs":1615818618200.0693,"birthtimeMs":1607572058481.1536,"atime":"2021-03-15T14:30:14.981Z","mtime":"2021-03-15T14:30:18.200Z","ctime":"2021-03-15T14:30:18.200Z","birthtime":"2020-12-10T03:47:38.481Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:30:55,527 INFO 86939 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355920,"size":385,"blocks":8,"atimeMs":1615818619066.008,"mtimeMs":1615818655464.8755,"ctimeMs":1615818655464.8755,"birthtimeMs":1607572058481.1536,"atime":"2021-03-15T14:30:19.066Z","mtime":"2021-03-15T14:30:55.465Z","ctime":"2021-03-15T14:30:55.465Z","birthtime":"2020-12-10T03:47:38.481Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:31:02,665 INFO 87004 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-15 22:31:02,671 INFO 87004 [egg:core] dump config after load, 3ms
+2021-03-15 22:31:02,696 INFO 87004 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-15 22:31:02,696 INFO 87004 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-15 22:31:02,696 INFO 87004 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-15 22:31:02,696 INFO 87004 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-15 22:31:02,696 INFO 87004 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-15 22:31:02,696 INFO 87004 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-15 22:31:02,696 INFO 87004 [egg-watcher:agent] watcher start success
+2021-03-15 22:31:02,703 INFO 87004 [egg:core] dump config after ready, 2ms
+2021-03-15 22:31:14,899 INFO 87004 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355920,"size":386,"blocks":8,"atimeMs":1615818656931.7144,"mtimeMs":1615818674887.2075,"ctimeMs":1615818674887.2075,"birthtimeMs":1607572058481.1536,"atime":"2021-03-15T14:30:56.932Z","mtime":"2021-03-15T14:31:14.887Z","ctime":"2021-03-15T14:31:14.887Z","birthtime":"2020-12-10T03:47:38.481Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:31:14,948 INFO 87004 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355920,"size":386,"blocks":8,"atimeMs":1615818656931.7144,"mtimeMs":1615818674887.2075,"ctimeMs":1615818674887.2075,"birthtimeMs":1607572058481.1536,"atime":"2021-03-15T14:30:56.932Z","mtime":"2021-03-15T14:31:14.887Z","ctime":"2021-03-15T14:31:14.887Z","birthtime":"2020-12-10T03:47:38.481Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:36:09,452 WARN 87004 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:36:09,246 INFO 87004 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":866,"blocks":8,"atimeMs":1615818552030.8916,"mtimeMs":1615818969184.5679,"ctimeMs":1615818969184.5679,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:29:12.031Z","mtime":"2021-03-15T14:36:09.185Z","ctime":"2021-03-15T14:36:09.185Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:36:14,373 INFO 87090 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-15 22:36:14,379 INFO 87090 [egg:core] dump config after load, 3ms
+2021-03-15 22:36:14,403 INFO 87090 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-15 22:36:14,404 INFO 87090 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-15 22:36:14,404 INFO 87090 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-15 22:36:14,404 INFO 87090 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-15 22:36:14,404 INFO 87090 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-15 22:36:14,404 INFO 87090 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-15 22:36:14,404 INFO 87090 [egg-watcher:agent] watcher start success
+2021-03-15 22:36:14,413 INFO 87090 [egg:core] dump config after ready, 3ms
+2021-03-15 22:36:55,437 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":884,"blocks":8,"atimeMs":1615818969933.7175,"mtimeMs":1615819015374.9346,"ctimeMs":1615819015374.9346,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:36:09.934Z","mtime":"2021-03-15T14:36:55.375Z","ctime":"2021-03-15T14:36:55.375Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:36:55,642 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:36:58,323 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news copy.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528292,"size":884,"blocks":8,"atimeMs":1615819018312.8574,"mtimeMs":1615819018313.108,"ctimeMs":1615819018313.3945,"birthtimeMs":1615819018312.8574,"atime":"2021-03-15T14:36:58.313Z","mtime":"2021-03-15T14:36:58.313Z","ctime":"2021-03-15T14:36:58.313Z","birthtime":"2021-03-15T14:36:58.313Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:36:58,526 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news copy.js rename
+2021-03-15 22:37:14,267 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news_detail.js rename
+2021-03-15 22:37:14,066 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news copy.js","remove":true,"isDirectory":false,"isFile":false}
+2021-03-15 22:37:14,066 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news_detail.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528292,"size":884,"blocks":8,"atimeMs":1615819034055.6199,"mtimeMs":1615819034004,"ctimeMs":1615819034005.016,"birthtimeMs":1615819018312.8574,"atime":"2021-03-15T14:37:14.056Z","mtime":"2021-03-15T14:37:14.004Z","ctime":"2021-03-15T14:37:14.005Z","birthtime":"2021-03-15T14:36:58.313Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:37:19,110 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news_detail.js rename
+2021-03-15 22:37:18,909 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news_detail.js","remove":true,"isDirectory":false,"isFile":false}
+2021-03-15 22:38:20,566 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:38:20,364 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1481,"blocks":8,"atimeMs":1615819016153.9185,"mtimeMs":1615819100301.3218,"ctimeMs":1615819100301.3218,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:36:56.154Z","mtime":"2021-03-15T14:38:20.301Z","ctime":"2021-03-15T14:38:20.301Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:38:41,080 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list copy.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":386,"blocks":8,"atimeMs":1615819120985.0222,"mtimeMs":1615819120941.1975,"ctimeMs":1615819120941.3699,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:38:40.985Z","mtime":"2021-03-15T14:38:40.941Z","ctime":"2021-03-15T14:38:40.941Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:38:48,992 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list copy.tpl","remove":true,"isDirectory":false,"isFile":false}
+2021-03-15 22:38:48,993 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":386,"blocks":8,"atimeMs":1615819122143,"mtimeMs":1615819128981,"ctimeMs":1615819128982.0806,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:38:42.143Z","mtime":"2021-03-15T14:38:48.981Z","ctime":"2021-03-15T14:38:48.982Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:39:42,259 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:39:42,058 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":389,"blocks":8,"atimeMs":1615819129995.2764,"mtimeMs":1615819181996.2354,"ctimeMs":1615819181996.2354,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:38:49.995Z","mtime":"2021-03-15T14:39:41.996Z","ctime":"2021-03-15T14:39:41.996Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:39:42,058 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1482,"blocks":8,"atimeMs":1615819100828.213,"mtimeMs":1615819181996.123,"ctimeMs":1615819181996.123,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:38:20.828Z","mtime":"2021-03-15T14:39:41.996Z","ctime":"2021-03-15T14:39:41.996Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:39:47,720 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:39:47,467 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1481,"blocks":8,"atimeMs":1615819183373.2615,"mtimeMs":1615819187456.5168,"ctimeMs":1615819187456.5168,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:39:43.373Z","mtime":"2021-03-15T14:39:47.457Z","ctime":"2021-03-15T14:39:47.457Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:39:47,517 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1481,"blocks":8,"atimeMs":1615819183373.2615,"mtimeMs":1615819187456.5168,"ctimeMs":1615819187456.5168,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:39:43.373Z","mtime":"2021-03-15T14:39:47.457Z","ctime":"2021-03-15T14:39:47.457Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:40:24,982 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":407,"blocks":8,"atimeMs":1615819183300.0254,"mtimeMs":1615819224920.54,"ctimeMs":1615819224920.54,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:39:43.300Z","mtime":"2021-03-15T14:40:24.921Z","ctime":"2021-03-15T14:40:24.921Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:41:24,173 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1601,"blocks":8,"atimeMs":1615819188160.051,"mtimeMs":1615819284110.8127,"ctimeMs":1615819284110.8127,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:39:48.160Z","mtime":"2021-03-15T14:41:24.111Z","ctime":"2021-03-15T14:41:24.111Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:41:24,378 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:41:50,173 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":210,"blocks":8,"atimeMs":1615819226218.3333,"mtimeMs":1615819310111.3284,"ctimeMs":1615819310111.3284,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:40:26.218Z","mtime":"2021-03-15T14:41:50.111Z","ctime":"2021-03-15T14:41:50.111Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:41:52,855 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":212,"blocks":8,"atimeMs":1615819311408.0042,"mtimeMs":1615819312844.685,"ctimeMs":1615819312844.685,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:41:51.408Z","mtime":"2021-03-15T14:41:52.845Z","ctime":"2021-03-15T14:41:52.845Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:41:52,905 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":212,"blocks":8,"atimeMs":1615819311408.0042,"mtimeMs":1615819312844.685,"ctimeMs":1615819312844.685,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:41:51.408Z","mtime":"2021-03-15T14:41:52.845Z","ctime":"2021-03-15T14:41:52.845Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:42:44,325 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/router.js change
+2021-03-15 22:42:44,122 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59354066,"size":231,"blocks":8,"atimeMs":1607572251708.4517,"mtimeMs":1615819364059.72,"ctimeMs":1615819364059.72,"birthtimeMs":1607571359856.157,"atime":"2020-12-10T03:50:51.708Z","mtime":"2021-03-15T14:42:44.060Z","ctime":"2021-03-15T14:42:44.060Z","birthtime":"2020-12-10T03:35:59.856Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:43:10,074 WARN 87090 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-15 22:43:09,869 INFO 87090 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1621,"blocks":8,"atimeMs":1615819284527.9026,"mtimeMs":1615819389807.1802,"ctimeMs":1615819389807.1802,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:41:24.528Z","mtime":"2021-03-15T14:43:09.807Z","ctime":"2021-03-15T14:43:09.807Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:43:25,263 INFO 87265 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-15 22:43:25,269 INFO 87265 [egg:core] dump config after load, 3ms
+2021-03-15 22:43:25,302 INFO 87265 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-15 22:43:25,302 INFO 87265 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-15 22:43:25,302 INFO 87265 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-15 22:43:25,303 INFO 87265 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-15 22:43:25,303 INFO 87265 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-15 22:43:25,303 INFO 87265 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-15 22:43:25,303 INFO 87265 [egg-watcher:agent] watcher start success
+2021-03-15 22:43:25,312 INFO 87265 [egg:core] dump config after ready, 3ms
+2021-03-15 22:44:01,208 INFO 87265 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":248,"blocks":8,"atimeMs":1615819314143.2585,"mtimeMs":1615819441144.6907,"ctimeMs":1615819441144.6907,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:41:54.143Z","mtime":"2021-03-15T14:44:01.145Z","ctime":"2021-03-15T14:44:01.145Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:44:07,843 INFO 87265 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":257,"blocks":8,"atimeMs":1615819442442.43,"mtimeMs":1615819447832.0286,"ctimeMs":1615819447832.0286,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:44:02.442Z","mtime":"2021-03-15T14:44:07.832Z","ctime":"2021-03-15T14:44:07.832Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:44:07,894 INFO 87265 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/view/news/list_detail.tpl","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":70528403,"size":257,"blocks":8,"atimeMs":1615819442442.43,"mtimeMs":1615819447832.0286,"ctimeMs":1615819447832.0286,"birthtimeMs":1615819120940.2512,"atime":"2021-03-15T14:44:02.442Z","mtime":"2021-03-15T14:44:07.832Z","ctime":"2021-03-15T14:44:07.832Z","birthtime":"2021-03-15T14:38:40.940Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-15 22:44:14,684 INFO 87315 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-15 22:44:14,690 INFO 87315 [egg:core] dump config after load, 3ms
+2021-03-15 22:44:14,715 INFO 87315 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-15 22:44:14,715 INFO 87315 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-15 22:44:14,716 INFO 87315 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-15 22:44:14,716 INFO 87315 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-15 22:44:14,716 INFO 87315 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-15 22:44:14,716 INFO 87315 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-15 22:44:14,716 INFO 87315 [egg-watcher:agent] watcher start success
+2021-03-15 22:44:14,725 INFO 87315 [egg:core] dump config after ready, 4ms
+2021-03-15 23:17:04,211 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 828901ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 01:03:43,421 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 6379195ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 03:03:50,854 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 7207084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 04:05:09,602 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 3678403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 04:07:19,876 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 69727ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 06:07:39,635 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 7219748ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 07:37:47,016 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 5407297ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 08:15:16,087 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 2229049ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 08:45:19,798 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 1803697ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 08:56:57,230 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 697431ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 09:01:56,437 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 299200ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+

@@ -1,0 +1,30 @@
+2021-03-16 22:08:07,323 ERROR 97482 [-/127.0.0.1/-/6ms GET /news/detail?id=1] nodejs.ReferenceError: app is not defined
+    at NewsController.detail (/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js:34:22)
+    at Object.callFn (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/koa-compose/index.js:45:18)
+    at /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/koa-compose/index.js:44:32)
+    at /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/koa-compose/index.js:36:12
+
+pid: 97482
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 22:08:57,791 ERROR 97535 [-/127.0.0.1/-/5ms GET /news/detail?id=1] nodejs.TypeError: Cannot read property 'get' of undefined
+    at NewsController.detail (/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js:34:37)
+    at Object.callFn (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/koa-compose/index.js:45:18)
+    at /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/koa-compose/index.js:44:32)
+    at /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/koa-compose/index.js:36:12
+
+pid: 97535
+hostname: HejifeideMacBook-Pro.local
+

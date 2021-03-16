@@ -1,0 +1,80 @@
+2021-03-16 09:52:08,482 INFO 87315 [egg-logrotator] agent logger reload: got log-reload message
+2021-03-16 19:09:29,655 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 1792430ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 19:39:33,427 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 1803770ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 19:54:45,310 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 911880ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 20:24:49,176 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 1803863ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 21:34:50,369 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 4201191ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 22:07:48,434 WARN 87315 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-16 22:07:48,231 INFO 87315 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1688,"blocks":8,"atimeMs":1615819390485.5623,"mtimeMs":1615903668168.1155,"ctimeMs":1615903668168.1155,"birthtimeMs":1607572104019.4097,"atime":"2021-03-15T14:43:10.486Z","mtime":"2021-03-16T14:07:48.168Z","ctime":"2021-03-16T14:07:48.168Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-16 22:08:00,609 INFO 97481 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-16 22:08:00,617 INFO 97481 [egg:core] dump config after load, 4ms
+2021-03-16 22:08:00,657 INFO 97481 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-16 22:08:00,657 INFO 97481 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-16 22:08:00,657 INFO 97481 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-16 22:08:00,658 INFO 97481 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-16 22:08:00,658 INFO 97481 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-16 22:08:00,658 INFO 97481 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-16 22:08:00,658 INFO 97481 [egg-watcher:agent] watcher start success
+2021-03-16 22:08:00,666 INFO 97481 [egg:core] dump config after ready, 3ms
+2021-03-16 22:08:45,154 WARN 97481 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-16 22:08:44,947 INFO 97481 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1693,"blocks":8,"atimeMs":1615903669620.6064,"mtimeMs":1615903724884.91,"ctimeMs":1615903724884.91,"birthtimeMs":1607572104019.4097,"atime":"2021-03-16T14:07:49.621Z","mtime":"2021-03-16T14:08:44.885Z","ctime":"2021-03-16T14:08:44.885Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-16 22:08:53,415 INFO 97534 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-16 22:08:53,420 INFO 97534 [egg:core] dump config after load, 2ms
+2021-03-16 22:08:53,442 INFO 97534 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-16 22:08:53,442 INFO 97534 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-16 22:08:53,442 INFO 97534 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-16 22:08:53,442 INFO 97534 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-16 22:08:53,442 INFO 97534 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-16 22:08:53,442 INFO 97534 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-16 22:08:53,442 INFO 97534 [egg-watcher:agent] watcher start success
+2021-03-16 22:08:53,451 INFO 97534 [egg:core] dump config after ready, 2ms
+2021-03-16 22:41:21,480 WARN 97534 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-16 22:41:21,275 INFO 97534 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1699,"blocks":8,"atimeMs":1615903725641.2502,"mtimeMs":1615905681219.1377,"ctimeMs":1615905681219.1377,"birthtimeMs":1607572104019.4097,"atime":"2021-03-16T14:08:45.641Z","mtime":"2021-03-16T14:41:21.219Z","ctime":"2021-03-16T14:41:21.219Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-16 22:41:31,729 WARN 97534 [agent:development] reload worker because /Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js change
+2021-03-16 22:41:31,473 INFO 97534 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1705,"blocks":8,"atimeMs":1615905682116.497,"mtimeMs":1615905691461.783,"ctimeMs":1615905691461.783,"birthtimeMs":1607572104019.4097,"atime":"2021-03-16T14:41:22.116Z","mtime":"2021-03-16T14:41:31.462Z","ctime":"2021-03-16T14:41:31.462Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-16 22:41:31,524 INFO 97534 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/hejifei/hejifei/study/Egg/hacker_new/app/controller/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":59355956,"size":1705,"blocks":8,"atimeMs":1615905682116.497,"mtimeMs":1615905691461.783,"ctimeMs":1615905691461.783,"birthtimeMs":1607572104019.4097,"atime":"2021-03-16T14:41:22.116Z","mtime":"2021-03-16T14:41:31.462Z","ctime":"2021-03-16T14:41:31.462Z","birthtime":"2020-12-10T03:48:24.019Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-03-16 22:41:37,759 INFO 98008 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-03-16 22:41:37,765 INFO 98008 [egg:core] dump config after load, 3ms
+2021-03-16 22:41:37,788 INFO 98008 [egg-watcher] Start watching: ["/Users/hejifei/hejifei/study/Egg/hacker_new/app","/Users/hejifei/hejifei/study/Egg/hacker_new/config","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks","/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy","/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"]
+2021-03-16 22:41:37,789 INFO 98008 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app"
+2021-03-16 22:41:37,789 INFO 98008 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/config"
+2021-03-16 22:41:37,789 INFO 98008 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks"
+2021-03-16 22:41:37,789 INFO 98008 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/mocks_proxy"
+2021-03-16 22:41:37,789 INFO 98008 [egg-watcher] Start watching: "/Users/hejifei/hejifei/study/Egg/hacker_new/app.js"
+2021-03-16 22:41:37,789 INFO 98008 [egg-watcher:agent] watcher start success
+2021-03-16 22:41:37,799 INFO 98008 [egg:core] dump config after ready, 3ms

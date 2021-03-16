@@ -1,0 +1,88 @@
+2021-03-15 23:17:04,210 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 828901ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 01:03:43,421 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 6379195ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 03:03:50,848 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 7207084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 04:05:09,595 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 3678403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 04:07:19,874 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 69727ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 06:07:39,634 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 7219748ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 07:37:47,012 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 5407297ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 08:15:16,086 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 2229049ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 08:45:19,797 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 1803697ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 08:56:57,230 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 697431ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+
+2021-03-16 09:01:56,436 ERROR 87315 nodejs.ClusterClientNoResponseError: client no response in 299200ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 87315
+hostname: HejifeideMacBook-Pro.local
+

@@ -1,0 +1,107 @@
+2021-03-16 09:52:08,482 INFO 87316 [egg-logrotator] app logger reload: got log-reload message
+2021-03-16 14:23:22,410 INFO 87316 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/cg/nm6dfxps1qb262k74v7b2bk00000gn/T/egg-multipart-tmp/hacker_new"
+2021-03-16 14:23:22,413 INFO 87316 [-/127.0.0.1/-/5ms SCHEDULE /__schedule?path=/Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2021-03-16 19:09:29,654 WARN 87316 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-16 19:39:33,427 WARN 87316 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-16 19:54:45,309 WARN 87316 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-16 20:24:49,175 WARN 87316 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-16 21:34:50,368 WARN 87316 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-03-16 22:07:49,457 INFO 97423 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-16 22:07:49,482 INFO 97423 [egg-multipart] stream mode enable
+2021-03-16 22:07:49,594 INFO 97423 [egg-static] starting static serve /public/ -> /Users/hejifei/hejifei/study/Egg/hacker_new/app/public
+2021-03-16 22:07:49,596 INFO 97423 [egg-security] use csrf middleware
+2021-03-16 22:07:49,597 INFO 97423 [egg-security] use methodnoallow middleware
+2021-03-16 22:07:49,597 INFO 97423 [egg-security] use noopen middleware
+2021-03-16 22:07:49,599 INFO 97423 [egg-security] use nosniff middleware
+2021-03-16 22:07:49,599 INFO 97423 [egg-security] use xssProtection middleware
+2021-03-16 22:07:49,600 INFO 97423 [egg-security] use xframe middleware
+2021-03-16 22:07:49,601 INFO 97423 [egg-security] use dta middleware
+2021-03-16 22:07:49,601 INFO 97423 [egg-security] compose 7 middlewares into one security middleware
+2021-03-16 22:07:49,612 INFO 97423 [egg:core] dump config after load, 7ms
+2021-03-16 22:07:49,620 INFO 97423 [egg-watcher:application] watcher start success
+2021-03-16 22:07:49,624 INFO 97423 [egg:core] dump config after ready, 3ms
+2021-03-16 22:08:00,987 INFO 97482 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-16 22:08:01,004 INFO 97482 [egg-multipart] stream mode enable
+2021-03-16 22:08:01,044 INFO 97482 [egg-static] starting static serve /public/ -> /Users/hejifei/hejifei/study/Egg/hacker_new/app/public
+2021-03-16 22:08:01,045 INFO 97482 [egg-security] use csrf middleware
+2021-03-16 22:08:01,045 INFO 97482 [egg-security] use methodnoallow middleware
+2021-03-16 22:08:01,045 INFO 97482 [egg-security] use noopen middleware
+2021-03-16 22:08:01,046 INFO 97482 [egg-security] use nosniff middleware
+2021-03-16 22:08:01,046 INFO 97482 [egg-security] use xssProtection middleware
+2021-03-16 22:08:01,046 INFO 97482 [egg-security] use xframe middleware
+2021-03-16 22:08:01,046 INFO 97482 [egg-security] use dta middleware
+2021-03-16 22:08:01,046 INFO 97482 [egg-security] compose 7 middlewares into one security middleware
+2021-03-16 22:08:01,051 INFO 97482 [egg:core] dump config after load, 3ms
+2021-03-16 22:08:01,061 INFO 97482 [egg-watcher:application] watcher start success
+2021-03-16 22:08:01,065 INFO 97482 [egg:core] dump config after ready, 3ms
+2021-03-16 22:08:45,498 INFO 97486 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-16 22:08:45,519 INFO 97486 [egg-multipart] stream mode enable
+2021-03-16 22:08:45,554 INFO 97486 [egg-static] starting static serve /public/ -> /Users/hejifei/hejifei/study/Egg/hacker_new/app/public
+2021-03-16 22:08:45,555 INFO 97486 [egg-security] use csrf middleware
+2021-03-16 22:08:45,556 INFO 97486 [egg-security] use methodnoallow middleware
+2021-03-16 22:08:45,556 INFO 97486 [egg-security] use noopen middleware
+2021-03-16 22:08:45,556 INFO 97486 [egg-security] use nosniff middleware
+2021-03-16 22:08:45,556 INFO 97486 [egg-security] use xssProtection middleware
+2021-03-16 22:08:45,556 INFO 97486 [egg-security] use xframe middleware
+2021-03-16 22:08:45,557 INFO 97486 [egg-security] use dta middleware
+2021-03-16 22:08:45,557 INFO 97486 [egg-security] compose 7 middlewares into one security middleware
+2021-03-16 22:08:45,563 INFO 97486 [egg:core] dump config after load, 4ms
+2021-03-16 22:08:45,569 INFO 97486 [egg-watcher:application] watcher start success
+2021-03-16 22:08:45,573 INFO 97486 [egg:core] dump config after ready, 2ms
+2021-03-16 22:08:53,777 INFO 97535 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-16 22:08:53,794 INFO 97535 [egg-multipart] stream mode enable
+2021-03-16 22:08:53,837 INFO 97535 [egg-static] starting static serve /public/ -> /Users/hejifei/hejifei/study/Egg/hacker_new/app/public
+2021-03-16 22:08:53,838 INFO 97535 [egg-security] use csrf middleware
+2021-03-16 22:08:53,838 INFO 97535 [egg-security] use methodnoallow middleware
+2021-03-16 22:08:53,839 INFO 97535 [egg-security] use noopen middleware
+2021-03-16 22:08:53,839 INFO 97535 [egg-security] use nosniff middleware
+2021-03-16 22:08:53,839 INFO 97535 [egg-security] use xssProtection middleware
+2021-03-16 22:08:53,839 INFO 97535 [egg-security] use xframe middleware
+2021-03-16 22:08:53,840 INFO 97535 [egg-security] use dta middleware
+2021-03-16 22:08:53,840 INFO 97535 [egg-security] compose 7 middlewares into one security middleware
+2021-03-16 22:08:53,845 INFO 97535 [egg:core] dump config after load, 3ms
+2021-03-16 22:08:53,853 INFO 97535 [egg-watcher:application] watcher start success
+2021-03-16 22:08:53,857 INFO 97535 [egg:core] dump config after ready, 3ms
+2021-03-16 22:41:22,031 INFO 97905 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-16 22:41:22,049 INFO 97905 [egg-multipart] stream mode enable
+2021-03-16 22:41:22,092 INFO 97905 [egg-static] starting static serve /public/ -> /Users/hejifei/hejifei/study/Egg/hacker_new/app/public
+2021-03-16 22:41:22,094 INFO 97905 [egg-security] use csrf middleware
+2021-03-16 22:41:22,095 INFO 97905 [egg-security] use methodnoallow middleware
+2021-03-16 22:41:22,096 INFO 97905 [egg-security] use noopen middleware
+2021-03-16 22:41:22,097 INFO 97905 [egg-security] use nosniff middleware
+2021-03-16 22:41:22,098 INFO 97905 [egg-security] use xssProtection middleware
+2021-03-16 22:41:22,099 INFO 97905 [egg-security] use xframe middleware
+2021-03-16 22:41:22,099 INFO 97905 [egg-security] use dta middleware
+2021-03-16 22:41:22,099 INFO 97905 [egg-security] compose 7 middlewares into one security middleware
+2021-03-16 22:41:22,106 INFO 97905 [egg:core] dump config after load, 4ms
+2021-03-16 22:41:22,113 INFO 97905 [egg-watcher:application] watcher start success
+2021-03-16 22:41:22,116 INFO 97905 [egg:core] dump config after ready, 2ms
+2021-03-16 22:41:32,073 INFO 97913 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-16 22:41:32,093 INFO 97913 [egg-multipart] stream mode enable
+2021-03-16 22:41:32,136 INFO 97913 [egg-static] starting static serve /public/ -> /Users/hejifei/hejifei/study/Egg/hacker_new/app/public
+2021-03-16 22:41:32,137 INFO 97913 [egg-security] use csrf middleware
+2021-03-16 22:41:32,138 INFO 97913 [egg-security] use methodnoallow middleware
+2021-03-16 22:41:32,138 INFO 97913 [egg-security] use noopen middleware
+2021-03-16 22:41:32,138 INFO 97913 [egg-security] use nosniff middleware
+2021-03-16 22:41:32,139 INFO 97913 [egg-security] use xssProtection middleware
+2021-03-16 22:41:32,139 INFO 97913 [egg-security] use xframe middleware
+2021-03-16 22:41:32,139 INFO 97913 [egg-security] use dta middleware
+2021-03-16 22:41:32,139 INFO 97913 [egg-security] compose 7 middlewares into one security middleware
+2021-03-16 22:41:32,144 INFO 97913 [egg:core] dump config after load, 3ms
+2021-03-16 22:41:32,151 INFO 97913 [egg-watcher:application] watcher start success
+2021-03-16 22:41:32,155 INFO 97913 [egg:core] dump config after ready, 3ms
+2021-03-16 22:41:38,135 INFO 98009 [egg:logger] init all loggers with options: {"dir":"/Users/hejifei/hejifei/study/Egg/hacker_new/logs/hacker_new","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker_new-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-03-16 22:41:38,151 INFO 98009 [egg-multipart] stream mode enable
+2021-03-16 22:41:38,193 INFO 98009 [egg-static] starting static serve /public/ -> /Users/hejifei/hejifei/study/Egg/hacker_new/app/public
+2021-03-16 22:41:38,195 INFO 98009 [egg-security] use csrf middleware
+2021-03-16 22:41:38,195 INFO 98009 [egg-security] use methodnoallow middleware
+2021-03-16 22:41:38,195 INFO 98009 [egg-security] use noopen middleware
+2021-03-16 22:41:38,195 INFO 98009 [egg-security] use nosniff middleware
+2021-03-16 22:41:38,196 INFO 98009 [egg-security] use xssProtection middleware
+2021-03-16 22:41:38,196 INFO 98009 [egg-security] use xframe middleware
+2021-03-16 22:41:38,196 INFO 98009 [egg-security] use dta middleware
+2021-03-16 22:41:38,196 INFO 98009 [egg-security] compose 7 middlewares into one security middleware
+2021-03-16 22:41:38,201 INFO 98009 [egg:core] dump config after load, 3ms
+2021-03-16 22:41:38,209 INFO 98009 [egg-watcher:application] watcher start success
+2021-03-16 22:41:38,213 INFO 98009 [egg:core] dump config after ready, 2ms
+2021-03-16 22:41:40,945 INFO 98009 [egg-view-nunjucks] loading templates from ["/Users/hejifei/hejifei/study/Egg/hacker_new/app/view"]

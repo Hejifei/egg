@@ -1,0 +1,99 @@
+2021-03-15 22:15:52,942 INFO 86588 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22447061ms at 2021-03-16 04:30:00.003
+2021-03-15 22:15:52,942 INFO 86588 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 6247058ms at 2021-03-16 00:00:00.000
+2021-03-15 22:15:52,942 INFO 86588 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6248058ms at 2021-03-16 00:00:01.000
+2021-03-15 22:15:52,774 INFO 86589 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:15:52,774 INFO 86589 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:15:52,774 INFO 86589 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:19:07,799 INFO 86631 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:19:07,799 INFO 86631 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:19:07,799 INFO 86631 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:21:37,219 INFO 86659 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:21:37,219 INFO 86659 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:21:37,219 INFO 86659 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:22:15,897 INFO 86690 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:22:15,897 INFO 86690 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:22:15,897 INFO 86690 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:22:22,865 INFO 86730 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22057137ms at 2021-03-16 04:30:00.002
+2021-03-15 22:22:22,865 INFO 86730 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 5857135ms at 2021-03-16 00:00:00.000
+2021-03-15 22:22:22,865 INFO 86730 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5858135ms at 2021-03-16 00:00:01.000
+2021-03-15 22:22:22,797 INFO 86731 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:22:22,797 INFO 86731 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:22:22,797 INFO 86731 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:23:31,683 INFO 86743 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:23:31,683 INFO 86743 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:23:31,683 INFO 86743 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:24:27,972 INFO 86829 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21932030ms at 2021-03-16 04:30:00.002
+2021-03-15 22:24:27,972 INFO 86829 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 5732028ms at 2021-03-16 00:00:00.000
+2021-03-15 22:24:27,973 INFO 86829 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5733028ms at 2021-03-16 00:00:01.001
+2021-03-15 22:24:27,832 INFO 86830 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:24:27,832 INFO 86830 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:24:27,832 INFO 86830 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:25:02,390 INFO 86846 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:25:02,390 INFO 86846 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:25:02,390 INFO 86846 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:25:03,580 INFO 86847 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:25:03,580 INFO 86847 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:25:03,580 INFO 86847 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:29:11,902 INFO 86896 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:29:11,902 INFO 86896 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:29:11,902 INFO 86896 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:29:23,871 INFO 86939 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21636131ms at 2021-03-16 04:30:00.002
+2021-03-15 22:29:23,872 INFO 86939 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 5436129ms at 2021-03-16 00:00:00.001
+2021-03-15 22:29:23,872 INFO 86939 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5437128ms at 2021-03-16 00:00:01.000
+2021-03-15 22:29:23,796 INFO 86940 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:29:23,796 INFO 86940 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:29:23,796 INFO 86940 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:31:03,127 INFO 87004 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21536874ms at 2021-03-16 04:30:00.001
+2021-03-15 22:31:03,128 INFO 87004 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 5336872ms at 2021-03-16 00:00:00.000
+2021-03-15 22:31:03,128 INFO 87004 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5337872ms at 2021-03-16 00:00:01.000
+2021-03-15 22:31:03,060 INFO 87005 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:31:03,060 INFO 87005 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:31:03,060 INFO 87005 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:36:09,820 INFO 87057 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:36:09,820 INFO 87057 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:36:09,820 INFO 87057 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:36:14,858 INFO 87090 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21225144ms at 2021-03-16 04:30:00.002
+2021-03-15 22:36:14,858 INFO 87090 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 5025142ms at 2021-03-16 00:00:00.000
+2021-03-15 22:36:14,858 INFO 87090 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5026142ms at 2021-03-16 00:00:01.000
+2021-03-15 22:36:14,789 INFO 87092 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:36:14,789 INFO 87092 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:36:14,789 INFO 87092 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:36:56,015 INFO 87098 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:36:56,015 INFO 87098 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:36:56,015 INFO 87098 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:37:14,625 INFO 87112 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:37:14,625 INFO 87112 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:37:14,625 INFO 87112 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:37:19,496 INFO 87114 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:37:19,496 INFO 87114 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:37:19,496 INFO 87114 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:39:48,091 INFO 87145 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:39:48,091 INFO 87145 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:39:48,091 INFO 87145 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:41:24,756 INFO 87166 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:41:24,756 INFO 87166 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:41:24,756 INFO 87166 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:42:44,691 INFO 87188 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:42:44,691 INFO 87188 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:42:44,691 INFO 87188 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:43:10,429 INFO 87198 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:43:10,429 INFO 87198 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:43:10,429 INFO 87198 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:43:25,756 INFO 87265 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20794245ms at 2021-03-16 04:30:00.001
+2021-03-15 22:43:25,757 INFO 87265 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4594244ms at 2021-03-16 00:00:00.001
+2021-03-15 22:43:25,757 INFO 87265 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4595243ms at 2021-03-16 00:00:01.000
+2021-03-15 22:43:25,687 INFO 87266 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:43:25,687 INFO 87266 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:43:25,687 INFO 87266 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-15 22:44:15,152 INFO 87315 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20744851ms at 2021-03-16 04:30:00.003
+2021-03-15 22:44:15,152 INFO 87315 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4544848ms at 2021-03-16 00:00:00.000
+2021-03-15 22:44:15,153 INFO 87315 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4545848ms at 2021-03-16 00:00:01.001
+2021-03-15 22:44:15,081 INFO 87316 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-03-15 22:44:15,081 INFO 87316 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-03-15 22:44:15,081 INFO 87316 [egg-schedule]: register schedule /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-03-16 09:52:07,503 INFO 87315 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 50872503ms at 2021-03-17 00:00:00.006
+2021-03-16 09:52:07,520 INFO 87316 [Job#16158595274941451947963064491] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2021-03-16 09:52:07,547 INFO 87316 [Job#16158595274941451947963064491] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 19ms. 
+2021-03-16 09:52:08,474 INFO 87316 [Job#16158595284731451957747985121] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2021-03-16 09:52:08,481 INFO 87316 [Job#16158595284731451957747985121] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 7ms. 
+2021-03-16 09:52:08,477 INFO 87315 [Timer] /Users/hejifei/hejifei/study/Egg/hacker_new/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 50872526ms at 2021-03-17 00:00:01.003
